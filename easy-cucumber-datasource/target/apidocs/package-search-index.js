@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"io.github.osvaldjr.datasource.configs"},{"l":"io.github.osvaldjr.datasource.stepdefinitions"},{"l":"io.github.osvaldjr.datasource.utils"}]

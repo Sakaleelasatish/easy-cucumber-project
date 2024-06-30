@@ -1,0 +1,6 @@
+io/github/osvaldjr/owaspzap/stepdefinitions/Transformers.class
+io/github/osvaldjr/owaspzap/objects/DataType.class
+io/github/osvaldjr/owaspzap/stepdefinitions/SecuritySteps.class
+io/github/osvaldjr/owaspzap/objects/AlertRisk.class
+io/github/osvaldjr/owaspzap/objects/ScannerType.class
+io/github/osvaldjr/owaspzap/configs/SecurityConfig.class

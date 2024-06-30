@@ -1,0 +1,9 @@
+io.github.osvaldjr.mock.clients
+io.github.osvaldjr.mock.objects
+io.github.osvaldjr.mock.stepdefinitions
+io.github.osvaldjr.mock.utils
+io.github.osvaldjr.mock.utils.mockserver
+io.github.osvaldjr.mock.utils.mockserver.assemblers
+io.github.osvaldjr.mock.utils.stubby
+io.github.osvaldjr.mock.utils.stubby.assemblers
+io.github.osvaldjr.mock.utils.stubby.jsons

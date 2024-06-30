@@ -1,0 +1,6 @@
+io/github/osvaldjr/jms/utils/GetMessageQueue.class
+io/github/osvaldjr/jms/utils/CleanQueue.class
+io/github/osvaldjr/jms/utils/PutMessageQueue.class
+io/github/osvaldjr/jms/configs/ActiveMQConfig.class
+io/github/osvaldjr/jms/objects/exceptions/QueueException.class
+io/github/osvaldjr/jms/stepdefinitions/QueueSteps.class

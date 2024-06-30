@@ -1,0 +1,10 @@
+io.github.osvaldjr.core
+io.github.osvaldjr.core.clients
+io.github.osvaldjr.core.configs
+io.github.osvaldjr.core.configs.converter
+io.github.osvaldjr.core.configs.decoder
+io.github.osvaldjr.core.objects
+io.github.osvaldjr.core.objects.exceptions
+io.github.osvaldjr.core.objects.properties
+io.github.osvaldjr.core.stepdefinitions
+io.github.osvaldjr.core.utils
